@@ -1,1 +1,1 @@
-RandomWords==0.3.0
+Random-Word==1.0.7
